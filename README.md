@@ -6,10 +6,10 @@ This project uses machine learning algorithms to predict the prices of flight de
 
 ## Overview
 
-![App page Look ](file:///C:/Users/tusha/Desktop/Flight%20Price%20Predict%20Project/Flight_Deployment/templates/index.html)
+<img src = "C:/Users/tusha/Desktop/Flight%20Price%20Predict%20Project/Flight_Deployment/templates/index.html">
 
 
-##Table of Contents
+## Table of Contents
 
 - Project Description
 
