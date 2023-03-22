@@ -1,12 +1,16 @@
 
+
+![Logo](https://media.istockphoto.com/id/1394303670/photo/737-aircraft-in-flight.jpg?b=1&s=170667a&w=0&k=20&c=w8sTZFEuvNJu_apMRU4ouOiAOnNz7duvF617U72I_Oc=)
+
+
+
+
 # Flight Deployment Price Prediction
 
 This project uses machine learning algorithms to predict the prices of flight deployments. The machine learning model is trained on historical flight prices, and the Flask web application provides a user interface to enter inputs and get price predictions.
 
 
-## Overview
-
-<img src = "C:/Users/tusha/Desktop/Flight%20Price%20Predict%20Project/Flight_Deployment/templates/index.html">
+![Screenshot flight Deployment](https://user-images.githubusercontent.com/121338492/226943119-0421f28a-6fb6-4311-af9a-6010a193ea08.png)
 
 
 ## Table of Contents
@@ -54,6 +58,16 @@ To use this project, you need to install some packages, including pandas, numpy,
 
 ```
     
+## Demo
+
+- link to demo
+
+http://127.0.0.1:5000/ 
+
+- Copy and Paste Below link -
+
+file:///C:/Users/tusha/Desktop/Flight%20Price%20Predict%20Project/Flight_Deployment/templates/index.html
+
 ## Usage
 
 Using this project is very simple. You just need to run the 'app.py' file and input your desired departure date, destination, and the number of passengers. The model will then generate a predicted price for your flight deployment.
