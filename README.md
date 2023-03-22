@@ -53,12 +53,17 @@ This project requires knowledge of several skills, including:
 
 To use this project, you need to install some packages, including pandas, numpy, matplotlib, scikit-learn, and Flask. You can install these packages using the following command:
 
+
+![EDA](https://user-images.githubusercontent.com/121338492/226948428-20180297-6950-4399-822d-022c85f59150.png)
+
 ```bash
   pip install pandas numpy matplotlib scikit-learn Flask
 
 ```
-    
+   
+
 ## Demo
+
 
 - link to demo
 
@@ -67,6 +72,11 @@ http://127.0.0.1:5000/
 - Copy and Paste Below link -
 
 file:///C:/Users/tusha/Desktop/Flight%20Price%20Predict%20Project/Flight_Deployment/templates/index.html
+
+![source vs price](https://user-images.githubusercontent.com/121338492/226947793-f8c712e9-e0e8-48c5-aaca-757b07149eaf.png)
+![over](https://user-images.githubusercontent.com/121338492/226947903-02c36ac4-79a1-4af6-972a-7057c26f6cae.png)
+
+![des vs price](https://user-images.githubusercontent.com/121338492/226947709-fe706dc0-a17f-4a0a-89bb-13c889698eba.png)
 
 ## Usage
 
